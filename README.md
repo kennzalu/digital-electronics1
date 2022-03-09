@@ -1,8 +1,9 @@
 #Digital Electronics
 
-##[Link to class] (https://github.com/tomas-fryza/digital-electronics-1)
+[Link to class] (https://github.com/tomas-fryza/digital-electronics-1)
 
 ##Basic commands
+
 -Copy the project to your local workspace
   **git clone <https://name-of-the-repository-link>**
 -Update local branches:
