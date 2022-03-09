@@ -27,4 +27,4 @@
 -Revert to a commit
   **git revert #**
 
-:jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern:
+:jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern::jack_o_lantern:
