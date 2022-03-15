@@ -116,10 +116,10 @@
         wait;
     end process p_stimulus;
 ```
-
+S
 2. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![Simulated](sim.png)
+   ![Simulated](sim.PNG)
 
 ### LED(7:4) indicators
 
