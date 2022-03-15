@@ -1,4 +1,4 @@
-# Lab 4: David Hamran
+# Lab 4: Michal Vida
 
 ### Seven-segment display decoder
 
