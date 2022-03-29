@@ -1,9 +1,8 @@
-# Lab 6: David Hamran
+# Lab 6: Michal Vida
 
 ### Bidirectional counter
 
-## Preparation tasks (done before the lab at home)
-
+## Preparation
 The Nexys A7 board provides five push buttons for user applications.
 
 1. See [schematic](https://github.com/tomas-fryza/digital-electronics-1/blob/master/Docs/nexys-a7-sch.pdf) or [reference manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual) of the Nexys A7 board and find out the connection of these push buttons, ie to which FPGA pins are connected and how (schema). What logic/voltage value do the buttons generate when not pressed and what value when the buttons are pressed?
@@ -50,7 +49,6 @@ The Nexys A7 board provides five push buttons for user applications.
 ```
 
 2. Screenshot with simulated time waveforms. Test reset as well. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
-  Whole simulation
    ![Simulation 1](images/sim1.png)
   Reset test
    ![Simulation 2](images/sim2.png)
